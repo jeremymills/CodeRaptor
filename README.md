@@ -19,5 +19,5 @@ CodeRaptor is a project group made within an Application Project course at Fansh
 * **Bio:** [student]
 
 ### Chris Andrisevic
-* **Email:** [to be filled in]
+* **Email:** [candrisevic@gmail.com]
 * **Bio:** [student]
