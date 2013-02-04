@@ -7,7 +7,7 @@ CodeRaptor is a project group made within an Application Project course at Fansh
 ## Team
 ### Carlie Hiel
 
-* **Email:** [to be filled in]
+* **Email:** [carlie.hiel@gmail.com]
 * **Bio:** [student]
 
 ### Insu Mun
